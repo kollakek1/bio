@@ -1,0 +1,2 @@
+flask
+uvicorn==0.20.0
